@@ -1,9 +1,9 @@
 ### Create Space Invaders with Swift and Sprite Kit: Implementing Classes
 #### Instructor: James Tyner
 
-In this series I will be teaching you how to create a Space Invaders inspired game using Sprite Kit and the Swift programming language. Along the way, you will create several classes, learn about Sprite Kit's integrated physics engine, generate particles using Sprite Kit's built-in particle editor, use the accelerometer to move a player, and much more.
+In the first part of this series, we explored the basics of the Sprite Kit framework and implemented the game's start screen. In this tutorial, we will implement the game's main classes.
 
 Source files for the Tuts+ tutorial: [Create Space Invaders with Swift and Sprite Kit: Implementing Classes
 ](http://code.tutsplus.com/tutorials/create-space-invaders-with-swift-and-sprite-kit-implementing-classes--cms-23355)
 
-**Available on "Pending"**
+**Read this tutorial on [Tuts+](https://code.tutsplus.com)**
