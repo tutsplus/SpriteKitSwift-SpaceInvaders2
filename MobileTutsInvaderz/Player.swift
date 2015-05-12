@@ -5,7 +5,7 @@ import SpriteKit
 class Player: SKSpriteNode {
  
     
-    override init() {
+    init() {
         let texture = SKTexture(imageNamed: "player1")
         super.init(texture: texture, color: SKColor.clearColor(), size: texture.size())
         animate()
